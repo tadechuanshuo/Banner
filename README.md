@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QingtingBannerView
 仿蜻蜓FM轮播banner
 
@@ -102,3 +103,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
+=======
+# Banner
+一个特色banner(转其他人的，看起来作者是巴掌)
+>>>>>>> cd81f97f143cc415d3e42b24098a0110c0e248f3
